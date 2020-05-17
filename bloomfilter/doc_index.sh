@@ -1,0 +1,1 @@
+java -jar assignment.jar doc_index $1 $2 $3
